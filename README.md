@@ -23,7 +23,4 @@ The T20 World Cup Score Prediction project aims to predict the total runs scored
 
 - **Deployment:** Deploy the XGBoost model as a web application on Herokuapp.
 
-## Website Overview:-
-Check the model by clicking on the below link  
-For better Expereince adjust the screen size to 67%
 ### [T20 Score Predictor](https://t20-score-app-19.streamlit.app/)
