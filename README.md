@@ -26,4 +26,4 @@ The T20 World Cup Score Prediction project aims to predict the total runs scored
 ## Website Overview:-
 Check the model by clicking on the below link  
 For better Expereince adjust the screen size to 67%
-### [T20 Score Predictor](https://t20-score-275ae826d4e8.herokuapp.com)
+### [T20 Score Predictor](https://t20-score-app-19.streamlit.app/)
